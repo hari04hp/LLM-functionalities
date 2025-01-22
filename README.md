@@ -3,3 +3,6 @@ This repo contains some notebooks that I had written to understand fine-tuning i
 
 
 If you are here reading this, go take a look at my portfolio at [Streamlit](https://haripriya-rajendran-portfolio.streamlit.app/)
+
+# References:
+Google's lora_tuning colab notebook : https://colab.research.google.com/github/google/generative-ai-docs/blob/main/site/en/gemma/docs/lora_tuning.ipynb
